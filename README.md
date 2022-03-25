@@ -1,6 +1,6 @@
 # Using npm
-frist : npm install
+Step 1 : npm install
 
-Second: npm run dev
+Step 2: npm run dev
 
-third : npm run prod
+Step 3 : npm run prod
